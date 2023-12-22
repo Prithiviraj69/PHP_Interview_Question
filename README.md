@@ -2,7 +2,7 @@
 
 ## PHP Interview Questions
 
-1. **[What is PHP?](#what-is-php)**
+Q1. **[What is PHP?](#what-is-php)**
 
 # Questions and Answers
 
