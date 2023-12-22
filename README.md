@@ -4,7 +4,7 @@
 1. **[What is PHP?](#q1-what-is-php)**
 2. **[What is the difference between variables and constants?](#q2-variables-and-constants)**
 3. **[Differentiate between static and dynamic websites.](#q3-differentiate-between-static-and-dynamic-websites)**
-4. **[Is PHP a case-sensitive scripting language?](#q4-case-sensitivity-in-php)**
+4. **[Is PHP a case-sensitive scripting language?](#q4-is-php-a-case-sensitive-scripting-language)**
 
 # Questions and Answers
 
@@ -12,7 +12,7 @@
    - PHP stands for PHP: Hypertext Preprocessor is a widely used open-source server-side scripting language especially suited for creating dynamic websites and mobile APIs.
    - It is used to manage dynamic content, session tracking, databases, and also to build an entire e-commerce site. 
    - By default, most of the web hosting servers support PHP, and thus it contributes to cost-effectiveness.
-   
+
 ### Q2. What is the difference between variables and constants?
    - **Variables:**
      - Variables are used to store data values.
