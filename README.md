@@ -4,6 +4,7 @@
 1. **[What is PHP?](#q1-what-is-php)**
 2. **[What is the difference between variables and constants?](#q2-variables-and-constants)**
 3. **[Differentiate between static and dynamic websites.](#q3-differentiate-between-static-and-dynamic-websites)**
+4. **[Is PHP a case-sensitive scripting language?](#q4-case-sensitivity-in-php)**
 
 # Questions and Answers
 
@@ -31,4 +32,7 @@
    - **Dynamic Website:**
      - The content can be changed even at runtime.
      - The content can be changed easily by manipulation and reloading.
- 
+
+### Q4. Is PHP a case-sensitive scripting language?
+   - The answer to this is both yes and no. Variables and their declaration in PHP are completely case-sensitive while function names are not.
+   - For example, user-defined functions in PHP can be defined in uppercase but later referred to in lowercase, and it would still function normally.
