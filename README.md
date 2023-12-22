@@ -2,7 +2,7 @@
 
 ## PHP Interview Questions
 1. **[What is PHP?](#q1-what-is-php)**
-2. **[What is the difference between variables and constants?](#q2-variables-and-constants)**
+2. **[What is the difference between variables and constants?](#q2-what-is-the-difference-between-variables-and-constants)**
 3. **[Differentiate between static and dynamic websites.](#q3-differentiate-between-static-and-dynamic-websites)**
 4. **[Is PHP a case-sensitive scripting language?](#q4-is-php-a-case-sensitive-scripting-language)**
 
