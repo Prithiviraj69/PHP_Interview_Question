@@ -3,6 +3,7 @@
 ## PHP Interview Questions
 1. **[What is PHP?](#q1-what-is-php)**
 2. **[What is the difference between variables and constants?](#q2-variables-and-constants)**
+3. **[Differentiate between static and dynamic websites.](#q3-static-and-dynamic-websites)**
 
 # Questions and Answers
 
@@ -23,4 +24,10 @@
      - You declare a constant using the define() function or the const keyword, for example, define("CONSTANT_NAME", "constant value"); or const CONSTANT_NAME = "constant value";.
      - Constants are useful when you want to ensure that a value remains constant throughout your code.
 
-
+### Q3. Differentiate between static and dynamic websites.
+   - **Static Website:**
+     - The content cannot be manipulated after the script is executed.
+     - No way to change the content as it is predefined.
+   - **Dynamic Website:**
+     - The content can be changed even at runtime.
+     - The content can be changed easily by manipulation and reloading.
