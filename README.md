@@ -1,13 +1,8 @@
 # PHP_Interview_Question
 
 ## PHP Interview Questions
-1. **[What is PHP?](#what-is-php)**
-2. **[Explain the difference between `==` and `===` in PHP.](#difference-between-equal-and-identical)**
-3. **[What is the use of `echo` and `print` in PHP?](#echo-and-print)**
-
-
-Q1. **[What is PHP?](#q1-what-is-php)**
-Q2. **[What is the difference between variables and constants?](#q2-variables-and-constants)**
+1. **[What is PHP?](#q1-what-is-php)**
+2. **[What is the difference between variables and constants?](#q2-variables-and-constants)**
 
 # Questions and Answers
 
