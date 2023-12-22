@@ -3,7 +3,7 @@
 ## PHP Interview Questions
 1. **[What is PHP?](#q1-what-is-php)**
 2. **[What is the difference between variables and constants?](#q2-variables-and-constants)**
-3. **[Differentiate between static and dynamic websites.](#q3-static-and-dynamic-websites)**
+3. **[Differentiate between static and dynamic websites.](#q3-differentiate-between-static-and-dynamic-websites)**
 
 # Questions and Answers
 
