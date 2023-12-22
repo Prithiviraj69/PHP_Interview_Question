@@ -6,27 +6,27 @@
 3. **[Differentiate between static and dynamic websites.](#q3-differentiate-between-static-and-dynamic-websites)**
 4. **[Is PHP a case-sensitive scripting language?](#q4-is-php-a-case-sensitive-scripting-language)**
 5. **[What is the meaning of PEAR in PHP?](#q5-meaning-of-pear-in-php)**
-6. **[What are the types of variables present in PHP?](#q6-types-of-variables-in-php)**
-7. **[Explain the difference between $message and $$message in PHP?](#q7-difference-between-message-and-message-in-php)**
-8. **[What are the rules for naming a PHP variable?](#q8-rules-for-naming-a-php-variable)**
-9. **[What is the difference between “echo” and “print” in PHP?](#q9-difference-between-echo-and-print-in-php)**
-10. **[Tell me some of the disadvantages of PHP?](#q10-disadvantages-of-php)**
-11. **[How can PHP and HTML interact?](#q11-php-and-html-interaction)**
-12. **[What is the purpose of @ in PHP?](#q12-purpose-of-at-in-php)**
-13. **[Explain the importance of Parser in PHP?](#q13-importance-of-parser-in-php)**
-14. **[Explain the main types of errors.](#q14-main-types-of-errors)**
-15. **[What are traits?](#q15-traits)**
-16. **[Does JavaScript interact with PHP?](#q16-javascript-interaction-with-php)**
-17. **[What is the most used method for hashing passwords in PHP?](#q17-most-used-method-for-hashing-passwords-in-php)**
-18. **[What is the difference between the include() and require() functions?](#q18-difference-between-include-and-require-functions)**
-19. **[What are cookies? How to create cookies in PHP?](#q19-cookies-and-creating-cookies-in-php)**
-20. **[What is the meaning of ‘escaping to PHP’?](#q20-escaping-to-php)**
-21. **[Explain Path Traversal](#q21-path-traversal)**
-22. **[What is the meaning of a final method and a final class?](#q22-final-method-and-final-class)**
-23. **[What are the steps to create a new database using MySQL and PHP?](#q23-create-new-database-using-mysql-and-php)**
-24. **[What is the use of session_start() and session_destroy() functions in PHP?](#q24-session-start-and-session-destroy-in-php)**
-25. **[How to connect to a URL in PHP?](#q25-connect-to-url-in-php)**
-26. **[What is PDO in PHP?](#q26-pdo-in-php)**
+6. **[What are the types of variables present in PHP?](#q6-what-are-the-types-of-variables-present-in-php)**
+7. **[Explain the difference between $message and $$message in PHP?](#q7-explain-the-difference-between-message-and-message-in-php)**
+8. **[What are the rules for naming a PHP variable?](#q8-what-are-the-rules-for-naming-a-php-variable)**
+9. **[What is the difference between “echo” and “print” in PHP?](#q9-what-is-the-difference-between-echo-and-print-in-php)**
+10. **[Tell me some of the disadvantages of PHP?](#q10-tell-me-some-of-the-disadvantages-of-php)**
+11. **[How can PHP and HTML interact?](#q11-how-can-php-and-html-interact)**
+12. **[What is the purpose of @ in PHP?](#q12-what-is-the-purpose-of--in-php)**
+13. **[Explain the importance of Parser in PHP?](#q13-explain-the-importance-of-parser-in-php)**
+14. **[Explain the main types of errors.](#q14-explain-the-main-types-of-errors)**
+15. **[What are traits?](#q15-what-are-traits)**
+16. **[Does JavaScript interact with PHP?](#q16-does-javascript-interact-with-php)**
+17. **[What is the most used method for hashing passwords in PHP?](#q17-what-is-the-most-used-method-for-hashing-passwords-in-php)**
+18. **[What is the difference between the include() and require() functions?](#q18-what-is-the-difference-between-the-include-and-require-functions)**
+19. **[What are cookies? How to create cookies in PHP?](#q19-what-are-cookies-how-to-create-cookies-in-php)**
+20. **[What is the meaning of ‘escaping to PHP’?](#q20-what-is-the-meaning-of-escaping-to-php)**
+21. **[Explain Path Traversal](#q21-explain-path-traversal)**
+22. **[What is the meaning of a final method and a final class?](#q22-what-is-the-meaning-of-a-final-method-and-a-final-class)**
+23. **[What are the steps to create a new database using MySQL and PHP?](#q23-what-are-the-steps-to-create-a-new-database-using-mysql-and-php)**
+24. **[What is the use of session_start() and session_destroy() functions in PHP?](#q24-what-is-the-use-of-session_start-and-session_destroy-functions-in-php)**
+25. **[How to connect to a URL in PHP?](#q25-how-to-connect-to-a-url-in-php)**
+26. **[What is PDO in PHP?](#q26-what-is-pdo-in-php)**
 
 # Questions and Answers
 
