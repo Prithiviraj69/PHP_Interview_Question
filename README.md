@@ -2,19 +2,8 @@
 
 ## PHP Interview Questions
 
+## PHP Interview Questions
+
 1. **[What is PHP?](#what-is-php)**
-2. **[Explain the difference between `==` and `===` in PHP.](#difference-between-equal-and-identical)**
-3. **[What is the use of `echo` and `print` in PHP?](#echo-and-print)**
+   - PHP stands for PHP: Hypertext Preprocessor is a widely used open-source server-side scripting language especially suited for creating dynamic websites and mobile APIs. It is used to manage dynamic content, session tracking, databases, and also to build an entire e-commerce site. By default, most of the web hosting servers support PHP, and thus it contributes to cost-effectiveness.
 
-# Questions and Answers
-
-### What is PHP?
-   - Answer goes here...
-
-### Difference between `==` and `===` in PHP.
-   - Answer goes here...
-
-### Echo and Print
-   - Answer goes here...
-
-# Add more questions...
