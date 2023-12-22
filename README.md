@@ -31,3 +31,4 @@
    - **Dynamic Website:**
      - The content can be changed even at runtime.
      - The content can be changed easily by manipulation and reloading.
+ 
